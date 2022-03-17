@@ -1,2 +1,2 @@
 # site_bootstrap
-Site utilizando bootsrap
+Site teste utilizando o framework bootstrap para criação de um site responsivo!
